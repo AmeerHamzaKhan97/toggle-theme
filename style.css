@@ -1,0 +1,36 @@
+.day{
+    background-color: white;
+    color: black;
+}
+
+.night{
+    background-color: black;
+    color: white;
+}
+
+html,body{
+    height: 100%;
+    margin: 0px;
+}
+
+#item{
+    height: 20%;
+    text-align: center;
+    text-align: center;
+    
+    margin: 15px;
+}
+
+p{
+    padding-top: 50px;
+}
+
+.button-day{
+    background-color: white;
+    color: black;
+}
+
+.button-night{
+    background-color: blanchedalmond;
+    color: black;
+}
